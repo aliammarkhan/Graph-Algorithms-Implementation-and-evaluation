@@ -37,7 +37,7 @@ dictionaries has also been used but their usage is very minor and just for the
 sake of showing output.
 5. Python Libraries used in the project are
 
-   • networkx(for strong graphs and processing)
+   • networkx(for storing graphs and processing)
 
     • matplotlib(for displaying graphs)
 
