@@ -60,7 +60,8 @@ Warshall cost is shown as the total distance of all the pairs plus inf ( the dis
 the unreachable pairs).
 
 Dijkstra and Bellman ford for undirected graph
-![2](https://user-images.githubusercontent.com/50051546/91600570-99e20180-e981-11ea-91a5-32f2ccf8189c.png)
+
+
 
 # References:
 1. Introduction to the Design & Analysis of Algorithms by Anany
